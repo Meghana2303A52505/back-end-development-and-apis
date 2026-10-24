@@ -1,0 +1,19 @@
+{
+  "name": "build-a-personal-profile-app",
+  "version": "1.0.0",
+  "description": "A personal profile API built with Express",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "express",
+    "profile",
+    "api"
+  ],
+  "license": "MIT",
+  "author": "freeCodeCamp",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
